@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skytim&label=Profile%20views&color=0e75b6&style=flat" alt="skytim" /> </p>
 
-- 🔭 I’m currently working on [sharedoc](https://github.com/Skytim/ShareDoc)
-
 - 🌱 I’m currently learning **AWS, Azure**
 
 - 📝 I regularly write articles on [https://medium.com/@sky22357168](https://medium.com/@sky22357168)
