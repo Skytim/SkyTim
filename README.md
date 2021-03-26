@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skytim&label=Profile%20views&color=0e75b6&style=flat" alt="skytim" /> </p>
 
-- 🌱 I’m currently learning **AWS, Azure**
+- 🌱 I’m currently learning **AWS, Azure**, and when I have free time, I try to solve [algorithm problem](https://github.com/Skytim/LeetCode) in JS
 
 - 📝 I regularly write articles on [https://medium.com/@sky22357168](https://medium.com/@sky22357168)
 
