@@ -1,27 +1,93 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A small frontend developer from Taiwan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skytim&label=Profile%20views&color=0e75b6&style=flat" alt="skytim" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Tim+Tsai;Frontend+%26+Full-stack;Taipei+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing intro" />
 
-- 🌱 I’m currently learning **AWS, Azure**
+<br />
 
-- 📝 I regularly write articles on [https://medium.com/@sky22357168](https://medium.com/@sky22357168)
+[![Profile views](https://komarev.com/ghpvc/?username=skytim&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/skytim)
+[![GitHub followers](https://img.shields.io/github/followers/skytim?style=for-the-badge&logo=github&color=181717&labelColor=0f172a)](https://github.com/skytim?tab=followers)
 
-- 💬 Ask me about **C#, Vue and Jest**
+</div>
 
-- 📫 How to reach me **sky22357168@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tim-tsai-abb08944" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tim-tsai-abb08944" height="30" width="40" /></a>
-<a href="https://medium.com/@sky22357168" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sky22357168" height="30" width="40" /></a>
-</p>
+### 關於我
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+我是來自台北的工程師，專注在 **Web 前端**與 **TypeScript** 生態，也持續把 **雲端（AWS / Azure）** 與 **AI 應用** 帶進日常開發與 side project。
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skytim&show_icons=true&locale=en&layout=compact" alt="skytim" /></p>
+- 目前感興趣：**AI agents**、自動化工作流、可維護的 UI 架構  
+- 寫作與分享：[Medium @sky22357168](https://medium.com/@sky22357168)  
+- 想聊的話：**C#、Vue、Jest、系統設計**  
+- 聯絡：**sky22357168@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skytim&show_icons=true&locale=en" alt="skytim" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skytim&" alt="skytim" /></p>
+### 技術棧
+
+**語言 & 框架**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**工具 & 平台**
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 精選專案
+
+| 專案 | 說明 |
+|------|------|
+| [**Skytim.github.io**](https://github.com/Skytim/Skytim.github.io) | 個人站（Astro） |
+| [**gh-weekly**](https://github.com/Skytim/gh-weekly) | GitHub 週報，可選 AI 摘要 |
+| [**monaco-editor-vue3**](https://github.com/Skytim/monaco-editor-vue3) | Vue 3 用的 Monaco Editor 整合 |
+| [**colleague-skill**](https://github.com/Skytim/colleague-skill) | 把離別化成可分享的 Skill（Python） |
+
+<sub>更多 repo 在 [Profile](https://github.com/Skytim?tab=repositories) · 持續更新中</sub>
+
+---
+
+### GitHub 活動
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=skytim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skytim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skytim&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak stats" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skytim&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=64748b&point=38bdf8" alt="Activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 找到我
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tim-tsai-abb08944)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sky22357168)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sky22357168@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skytim)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0d1117&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=c9d1d9&animation=twinkling" alt="Footer wave" />
+
+</div>
